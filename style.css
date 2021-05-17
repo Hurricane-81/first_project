@@ -1,0 +1,62 @@
+body {background-image: url(background.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      font-family: 'Roboto', sans-serif;
+}
+
+.overlay_square{background: black;
+margin-left: 350px;
+margin-top: 20px;
+width: 1200px;
+height: 850px;
+opacity: 0.6;
+border-radius: 20px;
+}
+
+#logo{width: 200px;
+margin-left: 485px;
+margin-top: 130px;
+}
+
+.title{color:lime;
+  letter-spacing: 2px;
+margin-left:350px;
+margin-top: 10px;
+}
+
+.line_choice{height: 40px;
+margin-left: 80px;
+margin-right: 100px;
+background-color: lime;
+}
+
+.button{
+  margin-left: 370px;
+  padding-top: 10px;
+  }
+
+.monopattino {margin-left:80px;
+  font-size: 20px;
+  padding-top: 30px;
+  color: white;
+}
+
+.location{font-size: 15px;}
+
+.line_charge_Gino22{height: 30px;
+    border-radius: 10px;
+    margin-right: 750px;
+    background-color:orange;
+  }
+
+.line_charge_Mike24{height: 30px;
+      border-radius: 10px;
+      margin-right: 500px;
+      background-color:lime;
+}
+
+.line_charge_Fede154{height: 30px;
+      border-radius: 10px;
+      margin-right: 950px;
+      background-color:red;
+}
